@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:\\Users\\duman\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "configurations": [
+        {
+          "type": "java",
+          "name": "CodeLens (Launch) - Main",
+          "request": "launch",
+          "mainClass": "Main"
+        }
+      ]
+}
